@@ -5,6 +5,6 @@
     <title>error page</title>
 </head>
 <body>
-    <h1>this is error page.</h1>
+    <h1>this is error page surported by freemarker.</h1>
 </body>
 </html>
